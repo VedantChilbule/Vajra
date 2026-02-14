@@ -14,19 +14,8 @@ Vajra is an intelligent, solar-powered solution designed to mitigate human-wildl
 - **Software:** Arduino Framework, C++, I2C (Wire.h), Bluetooth A2DP.
 - **Libraries:** WiFi.h, HTTPClient.h, BluetoothA2DPSource.h.
 
-## 📂 Project Structure
-- `/src`: Contains the `.ino` firmware for the ESP32.
-- `/docs`: Circuit diagrams, CAD models for the 4m pole, and technical specs.
-- `/test`: Initial pilot test data from wheat and banana field trials.
-
 ## 🔧 Installation
 1. Clone the repository: `git clone https://github.com/yourusername/Project-Vajra.git`
 2. Open the `/src` folder in Arduino IDE or VS Code (PlatformIO).
 3. Install required libraries (Wire, BluetoothA2DP).
 4. Flash the code to your ESP32.
-
-## 📈 Impact Goal
-The project aims for a **70-80% reduction** in annual crop losses for small and marginal farmers.
-
-## 📄 License
-This project is licensed under the MIT License.
